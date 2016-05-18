@@ -28,7 +28,7 @@ cd 14-student-grades
 open index.html
 ```
 
-[Live Site On Github]()
+[Live Site On Github](http://megancford.github.io/NSS-SW-14-StudentGrades)
 
 
 ![screenshot](studentgrades-screenshot.jpg)
